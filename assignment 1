@@ -1,6 +1,6 @@
 // CSC211 - Data Structures & Algorithms Lab
 // Lab Assignment 1 - Part 1: ArrayList, Pointer Traversal & Problem Solving
-// Registration number ends in 32, so your_reg_no = 32
+// Registration number ends in 54, so your_reg_no = 54
 
 #include <iostream>                              // needed for cin and cout
 #include <cmath>                                 // needed for fabs() and round()
